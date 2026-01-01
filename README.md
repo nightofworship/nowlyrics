@@ -1,4 +1,4 @@
-Help me convert plain text lyrics to OpenLP formatted lyrics.
+Help me convert plain text lyrics to OpenLP formatted lyrics. Be sure to follow XML syntax.
 
 Use the level of care and attention that Thomas A. Dorsey, Andraé Crouch, or Percy Bady would have while formatting song lyrics.
 
@@ -93,25 +93,25 @@ I trust in You
       <lines>I reach my hands to the heavens<br/>I lift my eyes where my help comes from<br/>I look to You my rock my healer<br/>I trust in You</lines>
     </verse>
     <verse name="v2">
-      <lines>Freedom is here, freedom is here<br/>Freedom is here and I receive it<br/>Freedom is here, freedom is here (oh yeah)<br/>Freedom is here and I believe it</lines>
+      <lines>Freedom is here, freedom is here<br/>Freedom is here and I receive it<br/>Freedom is here, freedom is here<br/>Freedom is here and I believe it</lines>
     </verse>
     <verse name="c2">
-      <lines>I reach my hands to the heavens<br/>I lift my eyes where my help comes from<br/>I look to You my rock my healer<br/>I trust in You (oh, I reach my hands)<br/><p style="page-break-after: always;"/><br/>I reach my hands to the heavens<br/>I lift my eyes where my help comes from<br/>I look to You my rock my healer<br/>I trust in You</lines>
+      <lines>I reach my hands to the heavens<br/>I lift my eyes where my help comes from<br/>I look to You my rock my healer<br/>I trust in You<br/><p style="page-break-after: always;"/><br/>I reach my hands to the heavens<br/>I lift my eyes where my help comes from<br/>I look to You my rock my healer<br/>I trust in You</lines>
     </verse>
     <verse name="b1">
-      <lines>Sickness can't stay any longer<br/>Your perfect love is casting out fear<br/>You are the God of all power<br/>And it is Your will that my life is healed (sing it out)</lines>
+      <lines>Sickness can't stay any longer<br/>Your perfect love is casting out fear<br/>You are the God of all power<br/>And it is Your will that my life is healed</lines>
     </verse>
     <verse name="b2">
-      <lines>Sickness can't stay any longer<br/>Your perfect love is casting out fear<br/>You are the God of all power<br/>And it is Your will that my life is healed (yeah)<br/><p style="page-break-after: always;"/><br/>Sickness can't stay any longer<br/>Your perfect love is casting out fear<br/>You are the God of all power<br/>And it is Your will that my life is healed (sickness can't stay)<br/><p style="page-break-after: always;"/><br/>Sickness can't stay any longer<br/>Your perfect love is casting out fear<br/>You are the God of all power<br/>And it is Your will that my life is healed</lines>
+      <lines>Sickness can't stay any longer<br/>Your perfect love is casting out fear<br/>You are the God of all power<br/>And it is Your will that my life is healed<br/><p style="page-break-after: always;"/><br/>Sickness can't stay any longer<br/>Your perfect love is casting out fear<br/>You are the God of all power<br/>And it is Your will that my life is healed<br/><p style="page-break-after: always;"/><br/>Sickness can't stay any longer<br/>Your perfect love is casting out fear<br/>You are the God of all power<br/>And it is Your will that my life is healed</lines>
     </verse>
     <verse name="c3">
-      <lines>I reach my hands to the heavens<br/>I lift my eyes where my help comes from<br/>I look to You my rock my healer<br/>I trust in You (oh-oh-oh)<br/><p style="page-break-after: always;"/><br/>I reach my hands to the heavens<br/>I lift my eyes where my help comes from<br/>I look to You my rock my healer<br/>I trust in You</lines>
+      <lines>I reach my hands to the heavens<br/>I lift my eyes where my help comes from<br/>I look to You my rock my healer<br/>I trust in You<br/><p style="page-break-after: always;"/><br/>I reach my hands to the heavens<br/>I lift my eyes where my help comes from<br/>I look to You my rock my healer<br/>I trust in You</lines>
     </verse>
     <verse name="o1">
       <lines>We lift our hands to You<br/>We lift our voices, oh God<br/><p style="page-break-after: always;"/><br/>You have never failed and You never will<br/>You have never failed and You never will<br/>You have never failed and You never will<br/>You have never failed and You never will</lines>
     </verse>
     <verse name="e1">
-      <lines>I reach my hands to the heavens<br/>I lift my eyes where my help comes from<br/>I look to You my rock my healer<br/>I trust in You (oh)</lines>
+      <lines>I reach my hands to the heavens<br/>I lift my eyes where my help comes from<br/>I look to You my rock my healer<br/>I trust in You</lines>
     </verse>
   </lyrics>
 </song>
@@ -219,7 +219,7 @@ Get up out of that grave
       <lines>He picked me up, He turned me around<br/>He placed my feet on solid ground<br/>I thank the Master, I thank the Savior<br/><p style="page-break-after: always;"/><br/>Because He healed my heart, He changed my name<br/>Forever free, I'm not the same<br/>I thank the Master, I thank the Savior<br/>I thank God</lines>
     </verse>
     <verse name="v2">
-      <lines>I cannot deny what I see<br/>Got no choice but to believe<br/>My doubts are burning<br/>Like ashes in the wind<br/>So, so long to my old friends<br/><p style="page-break-after: always;"/><br/>Burden and bitterness<br/>You can just keep it moving (Hey), hey<br/>Nah, you ain't welcome here</lines>
+      <lines>I cannot deny what I see<br/>Got no choice but to believe<br/>My doubts are burning<br/>Like ashes in the wind<br/>So, so long to my old friends<br/><p style="page-break-after: always;"/><br/>Burden and bitterness<br/>You can just keep it moving, hey<br/>Nah, you ain't welcome here</lines>
     </verse>
     <verse name="p2">
       <lines>From now 'til I walk the streets of gold<br/>I'll sing of how You saved my soul<br/>This wayward son has found his way back home</lines>
@@ -231,10 +231,10 @@ Get up out of that grave
       <lines>Oh, I thank God<br/>Oh, I thank God<br/>Oh, I thank God</lines>
     </verse>
     <verse name="b1">
-      <lines>Oh, Hell lost another one, I am free (Oh, yeah)<br/>I am free (Yeah), I am free<br/>Hell lost another one, I am free (I am free)<br/>I am free (Oh, I am free), I am free (Oh, I am free)<br/><p style="page-break-after: always;"/><br/>Hell lost another one, oh, I am free (Oh)<br/>I am free, yes, I am free (Oh, I've never been so free before)<br/>Hell lost another one, I am free (Oh)<br/>I am free (Oh), I am free (Yes)<br/><p style="page-break-after: always;"/><br/>Hell lost another one, I am free (Oh)<br/>I am free, oh, I am free (Oh)<br/>Hell lost another one, I am free (Oh)<br/>I am free (Yes), I am free (Hell lost another one)<br/><p style="page-break-after: always;"/><br/>Hell lost another one, I am free<br/>Oh, I am free, oh, I am free<br/>Oh, Hell lost another one, I am free (Oh)<br/>I am free, oh</lines>
+      <lines>Oh, Hell lost another one, I am free<br/>I am free, I am free<br/>Hell lost another one, I am free<br/>I am free, I am free<br/><p style="page-break-after: always;"/><br/>Hell lost another one, oh, I am free<br/>I am free, yes, I am free<br/>Hell lost another one, I am free<br/>I am free, I am free<br/><p style="page-break-after: always;"/><br/>Hell lost another one, I am free<br/>I am free, oh, I am free<br/>Hell lost another one, I am free<br/>I am free, I am free<br/><p style="page-break-after: always;"/><br/>Hell lost another one, I am free<br/>Oh, I am free, oh, I am free<br/>Oh, Hell lost another one, I am free<br/>I am free, oh</lines>
     </verse>
     <verse name="b2">
-      <lines>Get up, get up, get up (Yeah)<br/>Get up outta that grave (Okay)<br/>Get up, get up, get up (Yeah)<br/>Get up outta that grave (Okay)<br/>Get up, get up, get up, don't stay there (Yeah)<br/><p style="page-break-after: always;"/><br/>Get up outta that grave (Okay)<br/>Get up, get up, get up, c'mon (Yeah)<br/>Get up outta, say, get up (Okay)<br/>Get up, get up, get up outta that (Yeah)<br/>Get up outta that grave (Okay), get up, get up<br/><p style="page-break-after: always;"/><br/>Get up, get up, get up outta that grave (Yeah)<br/>Get up outta that grave (Okay), don't stay there</lines>
+      <lines>Get up, get up, get up<br/>Get up outta that grave<br/>Get up, get up, get up<br/>Get up outta that grave <br/>Get up, get up, get up, don't stay there <br/><p style="page-break-after: always;"/><br/>Get up outta that grave<br/>Get up, get up, get up, c'mon<br/>Get up outta, say, get up<br/>Get up, get up, get up outta that<br/>Get up outta that grave, get up, get up<br/><p style="page-break-after: always;"/><br/>Get up, get up, get up outta that grave<br/>Get up outta that grave, don't stay there</lines>
     </verse>
     <verse name="c3">
       <lines>He picked me up, turned me around<br/>Placed my feet on solid ground<br/>I thank the Master, I thank the Savior<br/><p style="page-break-after: always;"/><br/>Because He healed my heart, He changed my name<br/>Forever free, I'm not the same<br/>I thank the Master, I thank the Savior<br/>I thank God</lines>
